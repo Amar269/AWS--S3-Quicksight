@@ -40,16 +40,15 @@ This project demonstrates how to visualize data using Amazon QuickSight and Amaz
    - Drag and drop the `brands` data onto the visual board.
    - Name the sheet "Most Popular Brands."
    - Arrange the data in ascending order to visualize the popularity of the brands.
-   - ![Screenshot 2024-08-03 232319](https://github.com/user-attachments/assets/5b67a93b-0229-4975-b401-3b208a90cd00)
 
+     ![Screenshot 2024-08-03 232319](https://github.com/user-attachments/assets/5b67a93b-0229-4975-b401-3b208a90cd00)
 2. **Create Pie Chart**:
    - Drag and drop the `product_id` data onto the visual board.
    - Select the pie chart as the visualization type.
    - Name the sheet "Product ID Distribution."
    - Adjust the chart to clearly display the distribution of `product_id` categories.
-   - ![Screenshot 2024-08-03 232348](https://github.com/user-attachments/assets/cb8a29d4-3359-4ccc-82b3-07042df3fc23)
 
-
+    ![Screenshot 2024-08-03 232348](https://github.com/user-attachments/assets/cb8a29d4-3359-4ccc-82b3-07042df3fc23)
 ### Step 4: Complete the Project
 - Review the data visualizations to ensure they accurately represent the dataset.
 - Save and share your QuickSight dashboard.
