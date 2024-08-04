@@ -45,7 +45,7 @@ This project demonstrates how to visualize data using Amazon QuickSight and Amaz
 2. **Create Pie Chart**:
    - Drag and drop the `product_id` data onto the visual board.
    - Select the pie chart as the visualization type.
-   - Name the sheet "Product ID Distribution."
+   - Name the sheet "Product ID "
    - Adjust the chart to clearly display the distribution of `product_id` categories.
 
     ![Screenshot 2024-08-03 232348](https://github.com/user-attachments/assets/cb8a29d4-3359-4ccc-82b3-07042df3fc23)
